@@ -7,7 +7,6 @@ on:
   pull_request:
     paths:
       - 'week03/**'
-  workflow_dispatch:
 
 jobs:
   test:
