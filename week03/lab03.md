@@ -1,7 +1,5 @@
 # Lab 03: Python basics and automated testing
 
-**Last updated**: February 24, 2026
-
 **Due**: End of week (Sunday at 11:59 PM)
 **Points**: 10 points
 **Chapter**: Chapter 3 - Python Basics
