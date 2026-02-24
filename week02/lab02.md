@@ -1,5 +1,7 @@
 # Lab 02: AI-assisted development
 
+**Last updated**: February 24, 2026
+
 **Due**: End of week (Sunday at 11:59 PM)
 **Points**: 10 points
 **Chapter**: Chapter 2 - The developer's guide to generative AI
