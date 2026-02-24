@@ -1,5 +1,7 @@
 # Lab 07: Working with External Data
 
+**Last updated**: February 24, 2026
+
 **Due**: End of week (Sunday at 11:59 PM)
 **Points**: 10 points
 **Chapter**: Chapter 7 - Data and APIs
