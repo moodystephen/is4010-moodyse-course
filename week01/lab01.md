@@ -1,5 +1,7 @@
 # Lab 01: Development toolkit setup
 
+**Last updated**: February 24, 2026
+
 **Due**: End of week (Sunday at 11:59 PM)
 **Points**: 10 points
 **Chapter**: Chapter 1 - The modern development toolkit
