@@ -62,3 +62,9 @@ def reverse_string(s):
     return s[::-1]
 
 
+if __name__ == '__main__':
+    # Demo when run directly
+    print("✓ lab02.py executed successfully")
+    print(f"  factorial(5) = {factorial(5)}")
+    print(f"  is_prime(17) = {is_prime(17)}")
+    print(f"  reverse_string('hello') = {reverse_string('hello')}")
